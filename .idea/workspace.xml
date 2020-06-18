@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a64935c-0a22-43e8-bd50-f332ca21ab7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cdBG2Z3be4ovEB2pBhtTvZ3B2W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="StudentManagementSystem" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\JavaProject\JavaLearning\jdbc\src" />
+      <recent name="D:\project\JavaProject\JavaLearning\jdbc\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="StudentManagementSystem" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\JavaProject\JavaLearning\jdbc\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LLogin">
+    <configuration name="JdbcFirstDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.lesson01.JdbcFirstDemo" />
+      <module name="jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.lesson01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentManagementSystem.LLogin" />
+      <module name="jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StudentManagementSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.lesson02.SQL" />
+      <module name="jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.lesson02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.lesson02.TestSelect" />
+      <module name="jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.lesson02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="awtEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jeremy.test.awtEx" />
+      <module name="jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jeremy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LLogin" />
+        <item itemvalue="Application.TestSelect" />
+        <item itemvalue="Application.SQL" />
+        <item itemvalue="Application.awtEx" />
+        <item itemvalue="Application.JdbcFirstDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a64935c-0a22-43e8-bd50-f332ca21ab7b" name="Default Changelist" comment="" />
+      <created>1590848490844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590848490844</updated>
+      <workItem from="1590848492287" duration="3271000" />
+      <workItem from="1590884201796" duration="4715000" />
+      <workItem from="1590903394467" duration="23072000" />
+      <workItem from="1590968331043" duration="9818000" />
+      <workItem from="1591015824366" duration="2798000" />
+      <workItem from="1591098314788" duration="1320000" />
+      <workItem from="1591174970268" duration="11007000" />
+      <workItem from="1591277634824" duration="6102000" />
+      <workItem from="1591363425280" duration="5839000" />
+      <workItem from="1591406281327" duration="86000" />
+      <workItem from="1591520151531" duration="1882000" />
+      <workItem from="1591526989592" duration="9859000" />
+      <workItem from="1591849842672" duration="1520000" />
+      <workItem from="1591857247979" duration="3742000" />
+      <workItem from="1592016412673" duration="424000" />
+      <workItem from="1592458648087" duration="668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591282203338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="441" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1591282203338" />
+    <state x="983" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1590935945413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="983" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590935945413" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591282147477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591282147477" />
+    <state x="574" y="252" width="382" height="223" key="Github.CreateGistDialog" timestamp="1592458907987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="252" width="382" height="223" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1592458907987" />
+    <state width="1093" height="142" key="GridCell.Tab.0.bottom" timestamp="1591862162752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1093" height="142" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591862162752" />
+    <state width="1093" height="142" key="GridCell.Tab.0.center" timestamp="1591862162752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1093" height="142" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591862162752" />
+    <state width="1093" height="142" key="GridCell.Tab.0.left" timestamp="1591862162751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1093" height="142" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591862162751" />
+    <state width="1093" height="142" key="GridCell.Tab.0.right" timestamp="1591862162752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1093" height="142" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591862162752" />
+    <state width="746" height="261" key="GridCell.Tab.1.bottom" timestamp="1591015134814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591015134814" />
+    <state width="746" height="261" key="GridCell.Tab.1.center" timestamp="1591015134814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591015134814" />
+    <state width="746" height="261" key="GridCell.Tab.1.left" timestamp="1591015134814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591015134814" />
+    <state width="746" height="261" key="GridCell.Tab.1.right" timestamp="1591015134814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591015134814" />
+    <state x="49" y="114" width="638" height="529" key="com.intellij.ide.util.TipDialog" timestamp="1592458648061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="49" y="114" width="638" height="529" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592458648061" />
+  </component>
+</project>
